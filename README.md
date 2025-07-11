@@ -4,13 +4,21 @@ Este projeto é uma aplicação Java de tarefas utilizando **JavaFX SDK 24.0.1**
 
 ## ✅ Requisitos
 
-- **JDK 24 instalado**
+- **JDK 24 instalado** 
     - Download oficial: https://jdk.java.net/
 - **JavaFX SDK 24.0.1 baixado**
     - Download oficial: https://gluonhq.com/products/javafx/
 - **IntelliJ IDEA** (Community ou Ultimate)
 - Sistema operacional:
     - Windows, macOS ou Linux
+
+## 📦 Estrutura de Pacotes
+
+- `main/` – Contém a aplicação JavaFX (ex: TarefasApp.java)
+- `controller/` – Controladores de UI
+- `model/` – Classes de domínio (ex: Tarefa.java)
+- `database/` – Classe de conexão com SQLite
+- `test/` – Testes unitários com JUnit
 
 
 ## ⚙️ Configuração no IntelliJ IDEA
