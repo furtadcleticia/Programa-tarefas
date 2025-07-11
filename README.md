@@ -63,5 +63,5 @@ Este projeto é uma aplicação Java de tarefas utilizando **JavaFX SDK 24.0.1**
 - Testado com JDK 24 e JavaFX SDK 24.0.1
 
 ## 🧠 Créditos
-  Desenvolvido por Leticia e Thiago
+  Desenvolvido por Leticia Furtado e Thiago Galvão
 
